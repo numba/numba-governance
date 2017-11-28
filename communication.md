@@ -17,7 +17,7 @@ Longer discussions and support questions can be asked on the Numba Users mailing
 
 * https://groups.google.com/a/continuum.io/forum/#!forum/numba-users
 
-Violations of the code of conduct should be reported via email to the Code of Conduct subcomittee (numba-conduct@googlegroups.com) as described in [this document](code-of-conduct.md).  This email will be kept private to the Code of Conduct Subcommittee.
+Violations of the code of conduct should be reported via email to the Code of Conduct Working Group (numba-conduct@googlegroups.com) as described in [this document](code-of-conduct.md).  This email will be kept private to the Code of Conduct Working Group.
 
 ## GitHub
 
