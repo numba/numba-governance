@@ -44,8 +44,8 @@ low as possible.
 
 The Project is formally affiliated with the 501(c)3 NumFOCUS Foundation
 ([http://numfocus.org](http://numfocus.org)), which serves as its fiscal
-sponsor and helps manage project donations and acts as a parent legal entity.  Numba also 
-has a formal relationship with Anaconda, Inc. which is its foundational institutional sponsor.
+sponsor and helps manage project donations and acts as a parent legal entity.  Numba also currently 
+has a formal relationship with Anaconda, Inc. which is the Founding Institutional Partner and currently owns the trademarks and copyrights in the code that has been contributed by its employees.
 ****
 
 Governance
