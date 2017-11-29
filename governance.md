@@ -44,10 +44,8 @@ low as possible.
 
 The Project is formally affiliated with the 501(c)3 NumFOCUS Foundation
 ([http://numfocus.org](http://numfocus.org)), which serves as its fiscal
-sponsor, may hold project trademarks and other intellectual property, helps
-manage project donations and acts as a parent legal entity. NumFOCUS is the
-only legal entity that has a formal relationship with the project (see
-Institutional Partners section below).
+sponsor and helps manage project donations and acts as a parent legal entity.  Numba also 
+has a formal relationship with Anaconda, Inc. which is its foundational institutional sponsor.
 ****
 
 Governance
@@ -166,7 +164,7 @@ attempts at communication and conflict resolution have failed.
 
 ### Conflict of interest
 
-It is expected that the BDFL and Core Team Members will be employed at a wide
+It is expected that the BDFL and Core Team Members may be employed at a wide
 range of companies, universities and non-profit organizations. Because of this,
 it is possible that Members will have conflict of interests. Such conflict of
 interests include, but are not limited to:
@@ -223,7 +221,7 @@ interactions with NumFOCUS.
   and the direction of the Project as determined by the full Core Team.
 - This Subcommittee shall NOT make decisions about the direction, scope or
   technical direction of the Project.
-- Members of this Subcommittee need to independent and employed by different
+- Members of this Subcommittee need to be independent and employed by different
   institutions.
 
 Institutional Partners and Funding
@@ -235,6 +233,9 @@ or influence the project other than by participating in the Project as
 Contributors and Core Team. However, because institutions are the primary
 funding mechanism for the project, it is important to formally acknowledge
 institutional participation in the project. These are Institutional Partners.
+
+For many years, Anaconda Inc. provided the developers and funding to get Numba started. 
+As a result, Anaconda, Inc. will always be acknowledged as a Founding Institutional Partner.
 
 An Institutional Contributor is any individual Project Contributor who
 contributes to the project as part of their official duties at an Institutional
