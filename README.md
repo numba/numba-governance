@@ -1,7 +1,5 @@
 # Numba Project Governance
 
-**NOTE: This document is in draft form and currently being revised.  It does not take effect until this notice is removed.**
-
 The purpose of this repository is to document the governance process of Numba.
 This document clarifies how decisions are made and how the various elements of
 our community interact, including the relationship between open source
@@ -9,10 +7,14 @@ collaborative development and work that may be funded by for-profit or
 non-profit entities.
 
 ## Table of Contents
-   
+
+**NOTE: This is work-in-progress and will be updated as new documents are being accepted.**
+
+<!-- Draft for these documents are in the `draft` branch
 * [Main Governance Document](governance.md)
 * [Current People](people.md)
 * [Communication Channels](communication.md)
+-->
 * [Code of Conduct](code-of-conduct.md)
 
 ## Acknowledgements
